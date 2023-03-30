@@ -15,3 +15,4 @@
 Porque é importante documentar isso?
 
 - O novo colaborador já fica ciente de todas as tecnologias que esse serviço utiliza, vai trabalhar e se necessário, começar a aprender.
+- Outras equipes também ficam cientes das tecnologias aqui utilizadas, se necessário resolver algum problema ou sanar dúvidas específicas.
