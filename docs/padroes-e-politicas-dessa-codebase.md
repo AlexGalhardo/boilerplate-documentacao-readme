@@ -33,3 +33,11 @@
   - Não é recomendável fazer deploys na sexta-feira, exceto em alguns casos específicos como hotfix, ou bugs urgentes que precisam ser arrumados.
 - <b>Documentação</b>
   - Caso você perceba que alguma parte dessa ou outra documentação esteja errada, desatualizada ou faltando alguma informação importante, por favor, envie uma PR para atualizá-la.
+
+---
+Porque é importante documentar isso?
+
+- Fica fácil para novos colaboradores:
+  - Entenderem quais padrões de código são utilizadas nesse serviço.
+  - Entenderem quais são as políticas e padrões de code-review, PRs, merges, etc desse serviço.
+  - Entenderem acordos prévios da equipe em como manter esse repositório.

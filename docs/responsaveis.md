@@ -2,7 +2,7 @@
 
 [COLOCAR REFERÊNCIAS DE CONTATO DOS RESPONSÁVEIS EM MANTER ESSE SERVIÇO AQUI]
 
-- O repositório é de responsabilidade da squad: [NOME_DA_SQUAD_AQUI]
+- O repositório é de responsabilidade da squad: <b>NOME_DA_SQUAD_AQUI</b>
 - Canais do slack:
   - #nome-da-squad
   - #nome-do-serviço-sentry-logs

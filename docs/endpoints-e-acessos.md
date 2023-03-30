@@ -26,7 +26,7 @@ IMPORTANTE: caso você seja responsável por manter esse código, certifique-se 
 
 ## Documentações externas
 
-- Confluence Squad NOME_DA_SQUAD_AQUI: <https://company.atlassian.net/wiki/spaces/SAESAA/overview>
+- Confluence Squad <b>NOME_DA_SQUAD_AQUI</b>: <https://company.atlassian.net/wiki/spaces/SAESAA/overview>
 - Onboarding Novos Colaboradores: <https://company.atlassian.net/wiki/spaces/TECH/pages/1475641470/Onboarding+Novos+Colaboradores>
 - Backstage
   - [Primeiros Passos com Backstage e Ambiente Dev](https://company.atlassian.net/wiki/spaces/devops/pages/1676640557/Primeiros+Passos+com+Backstage+e+Ambiente+Dev)
